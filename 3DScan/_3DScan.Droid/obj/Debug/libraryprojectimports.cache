@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Forms.Presenter.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Forms.Presenter.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Forms.Presenter.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>d:\documents\visual studio 2015\Projects\3DScan\3DScan\_3DScan.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

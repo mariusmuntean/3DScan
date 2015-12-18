@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="x3DScan.Droid">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="19" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="View for anyViewModel" android:screenOrientation="portrait" android:name="md534bc8ac59f6d4579e7cc92aadf372eaa.MvxFormsApplicationActivity" />
+    <activity android:icon="@drawable/icon" android:label="3DScan" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md534bc8ac59f6d4579e7cc92aadf372eaa.SplashScreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="View for HomeViewModel" android:name="md5e83993b4c297c988dcbee5f8415521e7.FirstView" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="x3DScan.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.x3DScan.Droid" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
